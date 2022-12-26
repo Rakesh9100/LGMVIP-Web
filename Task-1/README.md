@@ -8,4 +8,4 @@ Develop a basic To-Do app that enables a user to add daily tasks.
 - In such a case, the to-do list will be a union of the Pending Tasks list and the Completed Tasks list.
 - Irrespective of the list, a user must be able to delete or edit tasks from it.
 
-## Website Link :- <https://rakesh9100.github.io/LGMVIP-WEB/Task-1/index.html>
+## Website Link :- <https://rakesh9100.github.io/LGMVIP-Web/Task-1/index.html>
