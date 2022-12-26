@@ -5,4 +5,4 @@ It takes a little skill to create a calculator with basic mathematical functiona
 - Calculators require an interactive interface to perform basic functions such as addition, subtraction, division, and multiplication.
 - It will need a display screen to display the user’s input and give the results.
 
-## Website Link :- <https://rakesh9100.github.io/LGMVIP-WEB/Task-4/index.html>
+## Website Link :- <https://rakesh9100.github.io/LGMVIP-Web/Task-4/index.html>
