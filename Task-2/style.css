@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #f6c657;
+  }
+
+  h2 {
+    margin-top: 16px;
+    font-size: 41px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 10%;
+    background-color: #222831;
+    box-shadow: 0px 10px 15px 0px rgba(210, 142, 142, 0.5);
+  }
+  
+  .logo-text img {
+    height: 61px;
+    width: 160px;
+    position: absolute;
+    margin-top: -17px;
+    margin-left: -126px;
+    border-radius: 14px;
+  }
+
+  .logo-text a,
+  .cta {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.4em;
+    font-weight: 500;
+    color: #e9ebea;
+    text-decoration: none;
+  }
+  
+  .cta {
+    padding: 9px 25px;
+    margin-right: -126px;
+    background-color: #00adb5;
+    border: none;
+    border-radius: 21px;
+    font-weight: 900;
+    cursor: pointer;
+    transition: background-color 0.3s ease 0s;
+  }
+  
+  .cta:hover {
+    background-color: rgba(16, 96, 255, 0.8);
+  }
+  
+  .cards {
+    display: table;
+  }
+  
+  .card {
+    font-family: "Candara", sans-serif;
+    width: 340px;
+    overflow: hidden;
+    background: #ddf3f5;
+    box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.8);
+    display: inline-block;
+    flex-direction: column;
+    border-radius: 2rem;
+    margin: 2rem;
+  }
+  
+  .profile-image img {
+    z-index: 1;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    margin-top: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+    border: 10px solid rgb(241, 168, 168);
+    transition-duration: 0.4s;
+    transition-property: transform;
+  }
+  
+  .profile-image img:hover {
+    transform: scale(1.1);
+  }
+  
+  .card-content h3,
+  .card-content h2 {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 11px;
+  }
