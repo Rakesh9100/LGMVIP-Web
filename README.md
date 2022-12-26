@@ -17,16 +17,16 @@
 
 ### Task-1 : To-Do List WebApp
 
-<https://rakesh9100.github.io/LGMVIP-WEB/Task-1/index.html>
+<https://rakesh9100.github.io/LGMVIP-Web/Task-1/index.html>
 
 ### Task-2 : Create React App
 
-<https://rakesh9100.github.io/LGMVIP-WEB/Task-2/index.html>
+<https://rakesh9100.github.io/LGMVIP-Web/Task-2/index.html>
 
 ### Task-3 : Enrollment Form
 
-<https://rakesh9100.github.io/LGMVIP-WEB/Task-3/index.html>
+<https://rakesh9100.github.io/LGMVIP-Web/Task-3/index.html>
 
 ### Task-4 : Calculator
 
-<https://rakesh9100.github.io/LGMVIP-WEB/Task-4/index.html>
+<https://rakesh9100.github.io/LGMVIP-Web/Task-4/index.html>
