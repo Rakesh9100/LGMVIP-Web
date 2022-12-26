@@ -8,4 +8,4 @@ Create a web application using create-react-app.
 - Show a loader while the API fetches the data.
 - Use custom CSS/SASS/styled-components.
 
-## Website Link :- <https://rakesh9100.github.io/LGMVIP-WEB/Task-2/index.html>
+## Website Link :- <https://rakesh9100.github.io/LGMVIP-Web/Task-2/index.html>
